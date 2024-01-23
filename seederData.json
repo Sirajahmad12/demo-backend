@@ -1,0 +1,76 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "states": [
+          {
+            "name": "California",
+            "cities": ["Los Angeles", "San Francisco", "San Diego", "Sacramento", "Fresno"]
+          },
+          {
+            "name": "New York",
+            "cities": ["New York City", "Buffalo", "Rochester", "Syracuse", "Albany"]
+          },
+          {
+            "name": "Texas",
+            "cities": ["Houston", "Dallas", "Austin", "San Antonio", "Fort Worth"]
+          },
+          {
+            "name": "Florida",
+            "cities": ["Miami", "Orlando", "Tampa", "Jacksonville", "Fort Lauderdale"]
+          },
+          {
+            "name": "Illinois",
+            "cities": ["Chicago", "Springfield", "Peoria", "Rockford", "Aurora"]
+          }
+        ]
+      },
+      {
+        "name": "United Kingdom",
+        "states": [
+          {
+            "name": "England",
+            "cities": ["London", "Manchester", "Birmingham", "Liverpool", "Leeds"]
+          },
+          {
+            "name": "Scotland",
+            "cities": ["Edinburgh", "Glasgow", "Aberdeen", "Dundee", "Inverness"]
+          },
+          {
+            "name": "Wales",
+            "cities": ["Cardiff", "Swansea", "Newport", "Bangor", "St Davids"]
+          },
+          {
+            "name": "Northern Ireland",
+            "cities": ["Belfast", "Derry", "Lisburn", "Newry", "Armagh"]
+          }
+        ]
+      },
+      {
+        "name": "Canada",
+        "states": [
+          {
+            "name": "Ontario",
+            "cities": ["Toronto", "Ottawa", "Mississauga", "Hamilton", "London"]
+          },
+          {
+            "name": "Quebec",
+            "cities": ["Montreal", "Quebec City", "Laval", "Gatineau", "Longueuil"]
+          },
+          {
+            "name": "British Columbia",
+            "cities": ["Vancouver", "Victoria", "Surrey", "Burnaby", "Kelowna"]
+          },
+          {
+            "name": "Alberta",
+            "cities": ["Calgary", "Edmonton", "Red Deer", "Lethbridge", "Medicine Hat"]
+          },
+          {
+            "name": "Manitoba",
+            "cities": ["Winnipeg", "Brandon", "Steinbach", "Thompson", "Portage la Prairie"]
+          }
+        ]
+      }
+    ]
+  }
+  
